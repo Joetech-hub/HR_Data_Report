@@ -2,6 +2,7 @@
 This report analyzes the HR data of a company, to discover trends and insights relating to the job environment.
 
 **Documentation Outline**
+- [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools Used](#tools-used)
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
